@@ -1,0 +1,1 @@
+Audit this entire codebase for exposed API keys, unprotected routes, missing auth checks and unsanitised inputs. Save findings to security[.]md
