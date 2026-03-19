@@ -1,0 +1,1 @@
+Please think carefully and truth seek. Don't just blindly re-run things and hope they will work. Read the code, and liberally add temporary logging statements anywhere in the codebase to verify logic works as you expect (just remember to not commit them). Dig deep and take the time to really figure out the root causes of problems.
