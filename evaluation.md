@@ -1,0 +1,1 @@
+Design a framework for evaluating the quality of AI outputs for [DESCRIBE USE CASE]. What metrics matter, how should they be measured, and what does good versus bad look like?
