@@ -1,0 +1,1 @@
+Put together ADRs (Architectural Decision Records) for this project as we will be using them for the future improvements. Interview me rigorously to get details (wherever makes sense)
